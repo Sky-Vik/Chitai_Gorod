@@ -1,6 +1,6 @@
 {
   "user_agent": "",
-  "token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTExOTI1MjQsImlhdCI6MTc1MTAyNDUyNCwiaXNzIjoiL2FwaS92MS9hdXRoL2Fub255bW91cyIsInN1YiI6ImUwMmU3NTFhZWY4YTZlMmY2N2IxYjg2NjVhNjY4YTMyNzc5NDM2ZDNiODM4MTJkMzdiNzJiOGI2ZDNmZGI1NGQiLCJ0eXBlIjoxMH0.SS8sHy4bbXzgXH7ri8v84kR-QX_T9lHisH5P5fHDCyY",
+  "token": "---TOKEN---",
   "content_type": "application/json",
   "search_phrase_negative": [
     "Теперь на бирже контента Адвего появился новый сервис — «Знакосчиталка онлайн». Работает он, как и остальные инструменты Адвего быстро, точно, платно.",
