@@ -1,7 +1,16 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+.vscode/
 *.py[cod]
 *$py.class
+
+allure*
+allure-files/
+allure-report/
+
+screenshots/
+.DS_Store
+Thumbs.db
 
 # C extensions
 *.so
